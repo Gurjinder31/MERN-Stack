@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+form {
+    padding-top: 20px;
+    width: 400px;
+}
+.mylist{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: black ;
+}
+.mylist ul{
+    
+    margin-top: 5px;
+    height: 80px;
+    width: 40%;
+}
+.mylist ul li{
+    background-color: rgb(179, 179, 179);
+}
